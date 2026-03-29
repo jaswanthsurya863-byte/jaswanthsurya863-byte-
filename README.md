@@ -13,7 +13,7 @@
 - 🎓 MS in Business Analytics — **University of Texas at Arlington** (Dec 2025)
 - 📊 Built 20+ KPI dashboards and automated workflows cutting reporting effort by 40%
 - 🌱 Exploring AI's impact on the future of data analytics
-- 💼 Open to **Data Analyst / Business Intelligence / Data Engineer / Data Scientist /Business Analyst** roles
+- 💼 Open to **Data Analyst / Business Intelligence / Data Engineer / Data Scientist /Business Analyst / AI/ML ROles** roles
 
 ---
 
